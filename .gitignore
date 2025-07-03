@@ -5,6 +5,7 @@
 !.gitignore
 !README.md
 !PublicAssets/
+!PublicAssets/**
 !PublicAssets/Bundles/
 !PublicAssets/Bundles/StandaloneWindows64/
 !PublicAssets/Bundles/StandaloneWindows64/**
