@@ -1,3 +1,16 @@
+# Игнорировать всё
+*
+
+# Но не игнорировать .gitignore и README.md
+!.gitignore
+!README.md
+!Assets/
+!Assets/AddressablesBuild/
+!Assets/AddressablesBuild/StandaloneWindows64/
+!Assets/AddressablesBuild/StandaloneWindows64/**
+
+
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
