@@ -6,6 +6,8 @@
 !README.md
 !Assets/
 !Assets/AddressablesBuild/
+!Assets/AddressablesBuild/StandaloneWindows64/
+!Assets/AddressablesBuild/StandaloneWindows64/**
 !Assets/AddressablesBuild/Remote/
 !Assets/AddressablesBuild/Remote/StandaloneWindows64/
 !Assets/AddressablesBuild/Remote/StandaloneWindows64/**
