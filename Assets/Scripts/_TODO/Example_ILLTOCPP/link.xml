@@ -1,0 +1,8 @@
+<linker>
+   <!-- Prevent stripping of types used via reflection or not directly referenced -->
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="MyPreservedClass" preserve="all"/>
+    <type fullname="MyRuntimeReferencedClass" preserve="all"/>
+    <type fullname="Il2CppAotExamples" preserve="all"/>
+  </assembly>
+</linker>

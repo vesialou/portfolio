@@ -1,19 +1,10 @@
 # Игнорировать всё
-*
+#*
 
 # Но не игнорировать .gitignore и README.md
-!.gitignore
-!README.md
-!PublicAssets/
-!PublicAssets/**
-!PublicAssets/Bundles/
-!PublicAssets/Bundles/StandaloneWindows64/
-!PublicAssets/Bundles/StandaloneWindows64/**
-!Assets/
-!Assets/AddressablesBuild/
-!Assets/AddressablesBuild/Remote/
-!Assets/AddressablesBuild/Remote/StandaloneWindows64/
-!Assets/AddressablesBuild/Remote/StandaloneWindows64/**
+
+Assets/Shaders/
+Assets/Art/
 
 
 
